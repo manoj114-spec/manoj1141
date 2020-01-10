@@ -1,0 +1,6 @@
+echo "# manoj1141" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/thelinuxchioice/instainsane/
+git push -u origin master
